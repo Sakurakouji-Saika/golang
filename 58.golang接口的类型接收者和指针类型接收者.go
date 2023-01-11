@@ -1,3 +1,4 @@
+// 一个类型实现多个接口
 package main
 
 import "fmt"
